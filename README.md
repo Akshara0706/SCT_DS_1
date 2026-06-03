@@ -29,4 +29,6 @@ SkillCraft Technology – Data Science Internship (Task 1)
 
 CH. Akshara
 BVRIT Hyderabad
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/24240a9b-24db-4375-ab83-1ef897b474e8" />
+
 
