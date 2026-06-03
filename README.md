@@ -29,6 +29,15 @@ SkillCraft Technology – Data Science Internship (Task 1)
 
 CH. Akshara
 BVRIT Hyderabad
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/24240a9b-24db-4375-ab83-1ef897b474e8" />
+## Output Visualizations
+
+### Population Distribution
+![Population Distribution](population_distribution.png)
+
+### Gender Distribution
+![Gender Distribution](gender_distribution.png)
+
+### Region Distribution
+![Region Distribution](region_distribution.png)
 
 
